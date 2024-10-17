@@ -5,6 +5,7 @@
 @import "status-bar.css";
 @import "login.css";
 
+@import "badge.css";
 @import "nav-bar.css";
 
 @import "screen-header.css";
@@ -13,6 +14,7 @@
 
 @import "user-component.css";
 
+@import "find.css";
 body {
     font-family: "Open Sans", sans-serif;
     color: #2e363e;

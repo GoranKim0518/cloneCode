@@ -19,3 +19,18 @@
 .screen-header__icons span{
     margin-left: 25px;
 }
+
+.screen-header__red-dot {
+    width: 4px;
+    height: 4px;
+    background-color: tomato;
+    border-radius: 50%;
+    position: absolute;
+    right: -3px;
+    top: -3px;
+}
+
+
+.screen-header__relative{
+    position: relative;
+}
